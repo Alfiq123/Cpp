@@ -4,6 +4,8 @@
 
 #include <iostream>  // for std::cout
 
+// An example of a user-defined function
+
 // Definition of user-defined function doPrint()
 // doPrint() is the called function in this example
 void doPrint()
