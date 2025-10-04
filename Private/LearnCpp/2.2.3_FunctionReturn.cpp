@@ -6,7 +6,7 @@
 
 // Function asks user to enter a value
 // Return value is the integer entered by the user from the keyboard
-int getValueFromUser() // this function now returns an integer value
+int get_value_from_user() // this function now returns an integer value
 {
     std::cout << "Enter an integer: ";
     int input{};
@@ -17,7 +17,7 @@ int getValueFromUser() // this function now returns an integer value
 
 int main()
 {
-    int num { getValueFromUser() }; // initialize num with the return value of getValueFromUser()
+    int num { get_value_from_user() }; // initialize num with the return value of get_value_from_user()
 
     std::cout << num << " doubled is: " << num * 2 << '\n';
 

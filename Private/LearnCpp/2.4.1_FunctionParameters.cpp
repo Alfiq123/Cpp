@@ -24,7 +24,7 @@ int add(int x, int y) {
     return x + y;
 }
 
-int getValueFromUser() {
+int get_value_from_user() {
     std::cout << "Enter an integer: ";
     int input;
     std::cin >> input;
@@ -32,7 +32,7 @@ int getValueFromUser() {
 }
 
 int main() {
-    int num = getValueFromUser();
+    int num = get_value_from_user();
 
     doPrint();       // this call has no arguments
     printValue(6); // 6 is the argument passed to function printValue()

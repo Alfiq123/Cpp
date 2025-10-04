@@ -6,7 +6,7 @@
 
 #include <iostream>
 
-int getValueFromUser()
+int get_value_from_user()
 {
     std::cout << "Enter an integer: ";
     int input{};
@@ -17,11 +17,11 @@ int getValueFromUser()
 
 int main()
 {
-    // int x{ getValueFromUser() }; // first call to getValueFromUser
-    // int y{ getValueFromUser() }; // second call to getValueFromUser
+    // int x{ get_value_from_user() }; // first call to get_value_from_user
+    // int y{ get_value_from_user() }; // second call to get_value_from_user
 
-    int x = getValueFromUser();
-    int y = getValueFromUser();
+    int x = get_value_from_user();
+    int y = get_value_from_user();
 
     std::cout << x << " + " << y << " = " << x + y << '\n';
 
