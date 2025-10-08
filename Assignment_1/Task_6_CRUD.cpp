@@ -17,36 +17,50 @@ using vec_str = std::vector<std::string>;
 using vec_int = std::vector<int>;
 using vec_mhs = std::vector<Mahasiswa>;
 
-// Mencari data di dalam array → Binary Search.
-int binary_search(const vec_int& array, int tujuan) {
-    int kiri  = 0;
-    int kanan = array.size() - 1;
+// Deklarasi fungsi agar bisa dipanggil sebelum definisinya
+void tampil_data(const vec_mhs& daftar);
 
-    while (kiri <= kanan) {
-        int tengah = (kiri + kanan) / 2;
-
-        if (array[tengah] == tujuan) { return tengah; }
-        else if (array[tengah] < tujuan) { kiri = tengah + 1; }
-        else { kanan = tengah - 1; }
-    }
-
-    return -1;
-}
-
-// Mengurutkan array → Bubble Sort
-void bubble_sort(vec_int& array) {
-    int ukuran = array.size();
+// Mengurutkan array Mahasiswa berdasarkan nama → Bubble Sort
+void bubble_sort_mhs(vec_mhs& daftar) {
+    int ukuran = daftar.size();
 
     for (int langkah = 0; langkah < ukuran - 1; ++langkah) {
         for (int i = 0; i < ukuran - langkah - 1; ++i) {
-            if (array[i] > array[i + 1]) {
-                int temp = array[i];
-                array[i] = array[i + 1];
-                array[i + 1] = temp;
+            // Bandingkan berdasarkan nama mahasiswa
+            if (daftar[i].nama > daftar[i + 1].nama) {
+                // Tukar posisi jika urutannya salah
+                Mahasiswa temp = daftar[i];
+                daftar[i] = daftar[i + 1];
+                daftar[i + 1] = temp;
             }
         }
     }
 }
+
+// Mencari data di dalam vector Mahasiswa berdasarkan nama → Binary Search.
+// Mengembalikan indeks jika ditemukan, dan -1 jika tidak ditemukan.
+int binary_search_mhs(const vec_mhs& daftar, const std::string& nama_dicari) {
+    int kiri  = 0;
+    int kanan = daftar.size() - 1;
+
+    while (kiri <= kanan) {
+        int tengah = kiri + (kanan - kiri) / 2; // Cara ini lebih aman dari overflow
+
+        // Bandingkan nama mahasiswa di posisi tengah dengan nama yang dicari
+        if (daftar[tengah].nama == nama_dicari) {
+            return tengah; // Data ditemukan, kembalikan indeksnya
+        }
+        else if (daftar[tengah].nama < nama_dicari) {
+            kiri = tengah + 1; // Cari di sisi kanan
+        }
+        else {
+            kanan = tengah - 1; // Cari di sisi kiri
+        }
+    }
+
+    return -1; // Data tidak ditemukan
+}
+
 
 // Menambah Data
 void tambah_data(vec_mhs& daftar) {
@@ -83,9 +97,7 @@ void ubah_data(std::vector<Mahasiswa>& daftar) {
 
     if (daftar.empty()) { std::cout << "Data masih kosong.\n"; return; }
 
-    for (size_t i = 0; i < daftar.size(); ++i) {
-        std::cout << i + 1 << ". " << daftar[i].nama << "\n";
-    }
+    tampil_data(daftar); // Tampilkan data agar user tahu nomornya
 
     size_t indeks;
     std::cout << "Masukkan nomor untuk data yang ingin diubah: ";
@@ -120,9 +132,7 @@ void hapus_data(vec_mhs& daftar) {
         return;
     }
 
-    for (size_t i = 0; i < daftar.size(); ++i) {
-        std::cout << i + 1 << ". " << daftar[i].nama << "\n";
-    }
+    tampil_data(daftar); // Tampilkan data agar user tahu nomornya
 
     size_t indeks;
     std::cout << "Masukkan nomor data yang ingin dihapus: ";
@@ -138,8 +148,48 @@ void hapus_data(vec_mhs& daftar) {
     std::cout << "Data berhasil dihapus.\n";
 }
 
-int main() {
+// Fungsi untuk menu Urutkan Data
+void urutkan_data(vec_mhs& daftar) {
+    if (daftar.empty()) {
+        std::cout << "\nData masih kosong, tidak ada yang bisa diurutkan.\n";
+        return;
+    }
 
+    bubble_sort_mhs(daftar);
+    std::cout << "\nData berhasil diurutkan berdasarkan nama.\n";
+    tampil_data(daftar); // Tampilkan data setelah diurutkan
+}
+
+// Fungsi untuk menu Cari Data
+void cari_data(const vec_mhs& daftar) {
+    if (daftar.empty()) {
+        std::cout << "\nData masih kosong, tidak ada yang bisa dicari.\n";
+        return;
+    }
+
+    std::cout << "\n═════ Cari Data Mahasiswa ═════\n";
+    std::cin.ignore();
+    std::string nama_dicari;
+    std::cout << "Masukkan nama mahasiswa yang ingin dicari: ";
+    std::getline(std::cin, nama_dicari);
+
+    // PENTING: Beri peringatan bahwa binary search butuh data terurut
+    std::cout << "(Peringatan: Pencarian paling akurat jika data sudah diurutkan!)\n";
+
+    int indeks = binary_search_mhs(daftar, nama_dicari);
+
+    if (indeks != -1) {
+        std::cout << "Data ditemukan pada nomor " << indeks + 1 << ":\n";
+        std::cout << "Nama: " << daftar[indeks].nama
+                  << ", Mata Kuliah: " << daftar[indeks].matkul
+                  << ", Nilai: " << daftar[indeks].ipk
+                  << '\n';
+    } else {
+        std::cout << "Data dengan nama \"" << nama_dicari << "\" tidak ditemukan.\n";
+    }
+}
+
+int main() {
     vec_mhs daftar;
     int pilihan;
 
@@ -149,8 +199,8 @@ int main() {
                   << "  2. Lihat Data"   << "\n"
                   << "  3. Ubah Data"    << "\n"
                   << "  4. Hapus Data"   << "\n"
-                  << "  5. Urutkan Data" << "\n"
-                  << "  6. Cari Data"    << "\n"
+                  << "  5. Urutkan Data (Berdasarkan Nama)" << "\n"
+                  << "  6. Cari Data (Berdasarkan Nama)"    << "\n"
                   << "  7. Keluar"       << "\n"
                   << "Masukkan Pilihan (1-7): ";
         std::cin >> pilihan;
@@ -160,10 +210,12 @@ int main() {
             case 2: tampil_data(daftar); break;
             case 3: ubah_data(daftar); break;
             case 4: hapus_data(daftar); break;
-            case 5: std::cout << "Keluar...\n"; break;
+            case 5: urutkan_data(daftar); break;
+            case 6: cari_data(daftar); break;
+            case 7: std::cout << "Keluar...\n"; break;
             default: std::cout << "Pilihan tidak valid.\n";
         }
-    } while (pilihan != 5);
+    } while (pilihan != 7);
 
     return 0;
 }
