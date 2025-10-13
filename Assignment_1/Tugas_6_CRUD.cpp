@@ -107,11 +107,10 @@ void sorting(Mahasiswa arr[], int jumlahData) {
     for (int i = 0; i < jumlahData - 1; ++i) {
         for (int j = 0; j < jumlahData - i - 1; ++j) {
             bool harusTukar = false;
-            if (pilihanUrut == 1 && arr[j].nilai > arr[j + 1].nilai) { // Ascending
-                harusTukar = true;
-            } else if (pilihanUrut == 2 && arr[j].nilai < arr[j + 1].nilai) { // Descending
-                harusTukar = true;
-            }
+            // Ascending
+            if (pilihanUrut == 1 && arr[j].nilai > arr[j + 1].nilai) { harusTukar = true; }
+            // Descending
+            else if (pilihanUrut == 2 && arr[j].nilai < arr[j + 1].nilai) { harusTukar = true; }
 
             if (harusTukar) {
                 Mahasiswa temp = arr[j];
