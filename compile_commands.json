@@ -1,0 +1,317 @@
+[
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Task_1.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_1.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_1.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Task_2.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_2.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_2.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Task_5.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_5.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_5.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Task_6_CRUD.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_6_CRUD.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Task_6_CRUD.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_10.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_10.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_10.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_6_CRUD.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_6_CRUD.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_6_CRUD.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_8.1.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.1.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.1.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_8.2.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.2.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.2.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_8.3.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.3.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.3.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/Tugas_8.4.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.4.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/Tugas_8.4.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Assignment_1/double_circular_linkedlist.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Assignment_1/double_circular_linkedlist.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Assignment_1/double_circular_linkedlist.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/EWIEGA46WW/moc_test.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/EWIEGA46WW/moc_test.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/EWIEGA46WW/moc_test.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/mocs_compilation.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/mocs_compilation.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-4_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-4/main.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/main.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/main.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-4/test.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/test.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-4/test.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/EWIEGA46WW/moc_cat.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/EWIEGA46WW/moc_cat.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/EWIEGA46WW/moc_cat.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/mocs_compilation.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/mocs_compilation.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/BraveHub_Qt_Ep-5_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-5/cat.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/cat.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/cat.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/BraveHub_Qt_Ep-5/main.cpp.o -c /home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/main.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/BraveHub_Qt_Ep-5/main.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/algorithm/Documents/Repository/Cpp/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/02_variables.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/02_variables.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/02_variables.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/03_const.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/03_const.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/03_const.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/04_namespaces.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/04_namespaces.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/04_namespaces.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/05_typeDefAliases.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/05_typeDefAliases.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/05_typeDefAliases.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/06_arithmetic.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/06_arithmetic.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/06_arithmetic.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/07_typeConversion.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/07_typeConversion.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/07_typeConversion.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/08_userInput.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/08_userInput.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/08_userInput.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/09_mathFunctions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/09_mathFunctions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/09_mathFunctions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/10_hypotenuseCalculator.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/10_hypotenuseCalculator.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/10_hypotenuseCalculator.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/n1_OOP.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/n1_OOP.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/n1_OOP.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/BroCode/n2_pointer.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/BroCode/n2_pointer.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/BroCode/n2_pointer.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0211_functions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0211_functions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0211_functions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0212_functions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0212_functions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0212_functions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0213_functions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0213_functions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0213_functions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0221_functionReturn.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0221_functionReturn.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0221_functionReturn.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0222_functionReturn.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0222_functionReturn.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0222_functionReturn.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0223_functionReturn.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0223_functionReturn.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0223_functionReturn.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0224_functionReturn.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0224_functionReturn.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0224_functionReturn.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0231_voidFunctions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0231_voidFunctions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0231_voidFunctions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0232_voidFunctions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0232_voidFunctions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0232_voidFunctions.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0241_functionParameters.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0241_functionParameters.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0241_functionParameters.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0242_functionParameters.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0242_functionParameters.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0242_functionParameters.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0243_functionParameters.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0243_functionParameters.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0243_functionParameters.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0244_functionParameters.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0244_functionParameters.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0244_functionParameters.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0245_functionParameters.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0245_functionParameters.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0245_functionParameters.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/1411_OOP.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1411_OOP.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1411_OOP.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/1412_OOP.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1412_OOP.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1412_OOP.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/1421_classes.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1421_classes.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1421_classes.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/1422_classes.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1422_classes.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/1422_classes.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/TestingPurpose/crud.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/crud.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/crud.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/TestingPurpose/firstProgram1.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram1.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram1.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/TestingPurpose/firstProgram2.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram2.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram2.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/TestingPurpose/firstProgram3.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram3.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TestingPurpose/firstProgram3.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/TheCherno/pointers.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/TheCherno/pointers.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TheCherno/pointers.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/Qt6_Whatever_autogen/mocs_compilation.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/Qt6_Whatever_autogen/mocs_compilation.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/build/Desktop_Qt_6_10_1-Debug/Qt6_Whatever_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Qt6_Whatever/main.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/main.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Qt6_Whatever/main.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/_Backup/main.cpp.o -c /home/algorithm/Documents/Repository/Cpp/_Backup/main.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/_Backup/main.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/_Backup/test.cpp.o -c /home/algorithm/Documents/Repository/Cpp/_Backup/test.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/_Backup/test.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/cmake-build-debug/CMakeFiles/4.0.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/algorithm/Documents/Repository/Cpp/cmake-build-debug/CMakeFiles/4.0.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/cmake-build-debug/CMakeFiles/4.0.2/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/algorithm/Documents/Repository/Cpp",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/Cpp.dir/Private/LearnCpp/0211_functions.cpp.o -c /home/algorithm/Documents/Repository/Cpp/Private/LearnCpp/0211_functions.cpp",
+  "file": "/home/algorithm/Documents/Repository/Cpp/Private/TheCherno/pointers.cpp"
+}
+]
